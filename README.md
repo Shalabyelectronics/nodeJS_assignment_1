@@ -11,7 +11,7 @@ This repository contains my solutions for **Assignment 1** of the **Node JS Boot
 
 - Solve 15 JavaScript coding exercises (`assignment1.js`)
 - Answer 5 core JavaScript conceptual essay questions (`assignment1.js`)
-- Complete the LeetCode _Counter II_ bonus challenge (`assignment1.js`)
+- Complete the LeetCode _Counter II_ bonus challenge (`bonus.js`)
 
 ## Tech Stack
 
@@ -25,5 +25,8 @@ git clone <repo-url>
 
 # Run the main assignment file
 node assignment1.js
+
+# Run the main bonus file
+node bonus.js
 
 ```
